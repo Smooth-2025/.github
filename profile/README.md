@@ -121,11 +121,11 @@ SMOOTH 프로젝트는 최신 프론트엔드, 백엔드, 클라우드 네이티
 ## 📚 Team Wiki
 
 팀의 개발 규칙, 이슈/PR 가이드 등은 GitHub Wiki에서 확인할 수 있습니다.  
-👉 [Team SMOOTH Wiki](../../wiki)
+👉 [Team SMOOTH Wiki](https://github.com/Smooth-2025/.github/wiki)
 
-- 📑 [Conventions](../../wiki/Conventions) — Commit, Branch, PR 규칙
-- 🔀 [Pull Request Guide](../../wiki/Pull-Request-Guide) — PR 작성 규칙 및 템플릿
-- 🗂️ [Issue Guide](../../wiki/Issue-Guide) — Epic → US → Task 기반 이슈 관리
+- 📑 [Conventions](https://github.com/Smooth-2025/.github/wiki/Conventions) — Commit, Branch, PR 규칙
+- 🔀 [Pull Request Guide](https://github.com/Smooth-2025/.github/wiki/Pull-Request-Guide) — PR 작성 규칙 및 템플릿
+- 🗂️ [Issue Guide](https://github.com/Smooth-2025/.github/wiki/Issue-Guide) — Epic → US → Task 기반 이슈 관리
 
 ---
 
